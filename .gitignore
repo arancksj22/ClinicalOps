@@ -27,3 +27,6 @@ replay_pid*
 backend/src/main/resources/application.properties
 backend/src/main/resources/application-secret.properties
 frontend/.env
+
+# Ignore build outputs
+Backend/target/
